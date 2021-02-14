@@ -1,0 +1,9 @@
+[submodule "user-app"]
+	path = user-app
+	url = https://github.com/Qoyyuum/Solitude-Client
+[submodule "admin-app"]
+	path = admin-app
+	url = https://github.com/yash9263/Solitude-admin-client
+[submodule "admin-backend"]
+	path = admin-backend
+	url = https://github.com/notjacobjun/Solitude-admin
